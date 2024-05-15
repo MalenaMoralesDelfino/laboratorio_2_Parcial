@@ -1,0 +1,11 @@
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\refint\Biblioteca.dll
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\male_\Desktop\2do año\Progra y Labo II\Visual\MoralesDelfino.Malena.323\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll

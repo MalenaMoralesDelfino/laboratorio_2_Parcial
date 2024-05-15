@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCGaubjSj/PHVmaH8K9scCYSO+IZcOKl+YS4zmWgFzZr4GmyjPHjvmV91KSfhmP5iIZQC3zexslXZGBHGTEVcA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\male_\\Desktop\\2do año\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\male_\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.29\\microsoft.netcore.app.host.win-x86.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

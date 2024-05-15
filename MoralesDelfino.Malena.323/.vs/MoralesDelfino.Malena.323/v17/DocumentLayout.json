@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\moralesdelfino.malena.323\\morales delfino malena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|solutionrelative:moralesdelfino.malena.323\\morales delfino malena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\moralesdelfino.malena.323\\morales delfino malena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|solutionrelative:moralesdelfino.malena.323\\morales delfino malena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\biblioteca\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\biblioteca\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\biblioteca\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\biblioteca\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C72A898-D49E-4C78-BAEC-7F6C9D0706D6}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\personalmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|c:\\users\\male_\\desktop\\2do a\u00F1o\\progra y labo ii\\visual\\moralesdelfino.malena.323\\moralesdelfino.malena.323\\morales delfino malena.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6F60B2-65FC-400F-93AB-C1E2AA101402}|MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323.csproj|solutionrelative:moralesdelfino.malena.323\\morales delfino malena.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Morales Delfino Malena.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "RelativeDocumentMoniker": "MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "RelativeToolTip": "MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:41:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Morales Delfino Malena.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "RelativeDocumentMoniker": "MoralesDelfino.Malena.323\\Morales Delfino Malena.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MoralesDelfino.Malena.323\\Morales Delfino Malena.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:36:45.391Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Paciente.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Paciente.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Paciente.cs",
+              "RelativeToolTip": "Biblioteca\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:31:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Consulta.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Consulta.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Consulta.cs",
+              "RelativeToolTip": "Biblioteca\\Consulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:31:29.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Persona.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Persona.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\Persona.cs",
+              "RelativeToolTip": "Biblioteca\\Persona.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:55:27.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalMedico.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\PersonalMedico.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\PersonalMedico.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\Biblioteca\\PersonalMedico.cs",
+              "RelativeToolTip": "Biblioteca\\PersonalMedico.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:21:35.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Morales Delfino Malena.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.Designer.cs",
+              "RelativeDocumentMoniker": "MoralesDelfino.Malena.323\\Morales Delfino Malena.Designer.cs",
+              "ToolTip": "C:\\Users\\male_\\Desktop\\2do a\u00F1o\\Progra y Labo II\\Visual\\MoralesDelfino.Malena.323\\MoralesDelfino.Malena.323\\Morales Delfino Malena.Designer.cs",
+              "RelativeToolTip": "MoralesDelfino.Malena.323\\Morales Delfino Malena.Designer.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawD8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:01:18.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
